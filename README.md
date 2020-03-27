@@ -1,4 +1,4 @@
-# PinnedHeaderListView （androidx.recyclerView）
+# Demo about PinnedHeaderListView （androidx.recyclerView）
 
 **see https://github.com/timehop/sticky-headers-recyclerview**
 
